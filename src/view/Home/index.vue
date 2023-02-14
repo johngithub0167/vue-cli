@@ -8,7 +8,6 @@
 <template>
   <div>
     <h2 class="title">hello home</h2>
-    <h1>666</h1>
   </div>
 </template>
 
